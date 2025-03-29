@@ -1,1 +1,0 @@
-https://github.com/Nectarine-Shine/posmotri-v-okno-fd
